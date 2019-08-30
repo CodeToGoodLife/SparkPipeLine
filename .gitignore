@@ -1,0 +1,9 @@
+project
+target
+tmp
+.history
+.idea
+*.iml
+out
+src/test/resources/data/temp
+.DS_Store
